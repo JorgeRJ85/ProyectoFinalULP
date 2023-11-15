@@ -23,10 +23,7 @@ import proyectofinal.AccesoaDatos.CiudadData;
 import proyectofinal.Entidades.Alojamiento;
 import proyectofinal.Entidades.Ciudad;
 
-/**
- *
- * @author Luis
- */
+
 public class AgregarAlojamiento extends javax.swing.JFrame {
 
     /**

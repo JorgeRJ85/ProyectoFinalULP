@@ -17,10 +17,6 @@ import proyectofinal.AccesoaDatos.PaqueteData;
 import proyectofinal.Entidades.Ciudad;
 import proyectofinal.Entidades.Paquete;
 
-/**
- *
- * @author orell
- */
 public class Consultas extends javax.swing.JInternalFrame {
 
     /**

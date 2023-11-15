@@ -11,10 +11,7 @@ import java.util.logging.Level;
 import java.util.logging.Logger;
 import javax.swing.JOptionPane;
 
-/**
- *
- * @author Luis
- */
+
 public class Conexion {
 
     private static final String URL = "jdbc:mariadb://localhost:3306/";

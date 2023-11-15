@@ -24,10 +24,7 @@ import proyectofinal.Entidades.Alojamiento;
 import proyectofinal.Entidades.Ciudad;
 import proyectofinal.Entidades.Paquete;
 
-/**
- *
- * @author ilux
- */
+
 public class Modificar_Alojamiento extends javax.swing.JInternalFrame {
 
     /**

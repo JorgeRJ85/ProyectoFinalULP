@@ -9,10 +9,7 @@ import java.sql.Date;
 import java.time.LocalDate;
 
 
-/**
- *
- * @author Luis
- */
+
 public class Alojamiento {
     
     private int idAlojamiento;

@@ -5,10 +5,7 @@
  */
 package proyectofinal.Entidades;
 
-/**
- *
- * @author Luis
- */
+
 public class Pasaje {
     
     private int idPasaje;

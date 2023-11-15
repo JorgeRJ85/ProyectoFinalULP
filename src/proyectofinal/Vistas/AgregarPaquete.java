@@ -22,10 +22,7 @@ import proyectofinal.Entidades.Paquete;
 import proyectofinal.Entidades.Pasaje;
 import proyectofinal.Entidades.TipoTransporte;
 
-/**
- *
- * @author orell
- */
+
 public class AgregarPaquete extends javax.swing.JInternalFrame {
 
     /**

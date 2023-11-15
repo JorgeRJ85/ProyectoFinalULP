@@ -17,10 +17,7 @@ import proyectofinal.AccesoaDatos.PasajeData;
 import proyectofinal.Entidades.Ciudad;
 import proyectofinal.Entidades.Paquete;
 
-/**
- *
- * @author ilux
- */
+
 public class Eliminar extends javax.swing.JInternalFrame {
 
     /**

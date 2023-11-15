@@ -16,10 +16,6 @@ import javax.sound.sampled.UnsupportedAudioFileException;
 import javax.swing.JInternalFrame;
 import javax.swing.JOptionPane;
 
-/**
- *
- * @author orell
- */
 public class menu extends javax.swing.JFrame {
 
     /**

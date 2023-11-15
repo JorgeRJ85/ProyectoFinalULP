@@ -22,10 +22,7 @@ import proyectofinal.Entidades.Paquete;
 import proyectofinal.Entidades.Pasaje;
 import sun.security.rsa.RSACore;
 
-/**
- *
- * @author maxfa
- */
+
 public class PaqueteData {
 
     private PreparedStatement ps;

@@ -5,10 +5,7 @@
  */
 package proyectofinal.Entidades;
 
-/**
- *
- * @author Luis
- */
+
 public class Paquete {
     
     private int idPaquete;

@@ -4,10 +4,7 @@
  */
 package proyectofinal.Entidades;
 
-/**
- *
- * @author maxfa
- */
+
 public enum TipoTransporte {
     Avion,
     Tren,

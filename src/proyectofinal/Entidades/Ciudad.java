@@ -7,10 +7,7 @@ package proyectofinal.Entidades;
 
 import proyectofinal.Vistas.AgregarAlojamiento;
 
-/**
- *
- * @author Luis
- */
+
 public class Ciudad {
     
     private int idCiudad;

@@ -10,10 +10,6 @@ import javax.swing.JOptionPane;
 import proyectofinal.AccesoaDatos.CiudadData;
 import proyectofinal.Entidades.Ciudad;
 
-/**
- *
- * @author Luis
- */
 public class CiudadAgregar extends javax.swing.JFrame {
 
     /**

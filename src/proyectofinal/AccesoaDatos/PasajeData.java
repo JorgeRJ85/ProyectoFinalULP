@@ -14,10 +14,7 @@ import proyectofinal.Entidades.Ciudad;
 import proyectofinal.Entidades.Paquete;
 import proyectofinal.Entidades.Pasaje;
 
-/**
- *
- * @author orell
- */
+
 public class PasajeData {
     private PreparedStatement ps;
 
